@@ -48,4 +48,4 @@ curious about what's happening on the other side of the stack.
 
 ## 📫 Let's connect
 
-[LinkedIn](https://linkedin.com/in/leniel-mojica-rosario)
+[LinkedIn](https://linkedin.com/in/leniel-mojica-rosario-257657241)
