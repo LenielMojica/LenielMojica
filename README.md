@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="https://raw.githubusercontent.com/LenielMojica/LenielMojica/main/banner.gif" width="600"/>
 </div>
 
 # Hey, I'm Leniel 👋
