@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhuYjVlYjlnMTR5dHFyNnViamFmZTR2OWwzMG5wZzE2d3NkbTFrdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PXMRSJbKmZg6C7uJ94/giphy.gif" width="600"/>
+   <img src="https://media.giphy.com/media/SWb0QBVy8bWHBNsNeN/giphy.gif" width="600"/>
 </div>
 
 # Hey, I'm Leniel 👋
