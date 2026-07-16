@@ -39,7 +39,7 @@ curious about what's happening on the other side of the stack.
 ## 🚀 Projects
 
 - 🌤️ [Weather Dashboard](https://github.com/LenielMojica/weather-dashboard) — Real-time weather app with air quality index, 5-day forecast and temperature charts. Built with React + OpenWeatherMap API
-- 🎬 [Movie Database](https://github.com/LenielMojica/Movie-database) — Browse and search movies using a public API
+- 🎬 [Movie Database](https://github.com/LenielMojica/Movie-database) — Nerflix clone using TMDB API
 - 📅 [Preseleccionador de Materias](https://github.com/LenielMojica/preseleccionador-materias) — Schedule builder for university students, built with React
 - 🤖 [Citas Bot](https://github.com/LenielMojica/Citas-bot) — Node.js bot that monitors a consulate server for available appointments and claims them automatically within a requested date range
 - 🕐 [Digital Clock](https://github.com/LenielMojica/Digital-clock) — Clock with alarm and stopwatch built in vanilla JS
